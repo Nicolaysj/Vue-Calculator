@@ -1,1 +1,1 @@
-Vue-Calculator
+Simple Calculator App made with Vue
